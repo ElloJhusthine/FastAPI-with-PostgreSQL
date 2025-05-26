@@ -1,8 +1,8 @@
 # FastAPI app live URL
-https://fastapi-with-postgresql.onrender.com
+https://postgresql-472o.onrender.com
 
 # FastAPI documentation live URl
-https://fastapi-with-postgresql.onrender.com/docs
+https://postgresql-472o.onrender.com/docs
 
 # FastAPI books live URl
-https://fastapi-with-postgresql.onrender.com/books
+https://postgresql-472o.onrender.com/books
